@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trương Tuấn Lộc (Jura69)</h1>
-<h3 align="center">A passionate webdeveloper from Vietnam 🇻🇳</h3>
+<h3 align="center">A passionate webdeveloper from VietNam</h3>
 
 - 👨‍💻 All of my projects are available at [https://jura69s.vercel.app/](https://jura69s.vercel.app/)
 
